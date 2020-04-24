@@ -49,4 +49,5 @@ def div(x, y):
 
 ## Acknowledgements
 
-Based on an idea by [digitalarbeiter](https://github.com/digitalarbeiter)
+- Based on an idea by [digitalarbeiter](https://github.com/digitalarbeiter)
+- `ctype_async_raise` [stolen](https://gist.github.com/liuw/2407154) (with slight adaptations) from [liuw](https://github.com/liuw)
